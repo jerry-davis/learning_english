@@ -8,6 +8,26 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 1 gentleman
 The new actor is a gentleman - he kisses my hand .
 n 绅士
@@ -25,7 +45,7 @@ The man is struggling in the turbulent river .
 adj 湍急的
 
 5 berry
-There's nothing to eat than a juice berry .
+There's nothing to eat other than a juice berry .
 n 浆果
 
 6 man
