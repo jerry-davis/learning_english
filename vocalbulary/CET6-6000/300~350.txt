@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 camel
+The camel is known as the ship of desert .
+n 骆驼
+
+2 girl
+The girl with brown hair is so cute .
+n 女孩
+
+3 ice-cream
+I ordered two bowls of ice-cream .
+n 冰淇淋
+
+4 kneel
+He kneels in front of his master to show respect .
+v 跪
+
+5 withstand
+We all have to withstand our own pressures in life .
+v 忍受
+
+6 coach
+The volleyball coach is talking to her team members .
+n 教练
+
+7 repeatedly
+He repeatedly refused his son's request for candy .
+adv 重复地
+
+8 feather
+This beautiful hat is made of feather .
+n 羽毛
+
+9 sway
+His huge inheritance swayed his plan to find a job .
+v 动摇
+
+10 polite
+This polite girl gave her seat to an old lady .
+adj 有礼貌的
+
+11 indispensable
+Microelement is indispensable to people .
+adj 比不可少的
+
+12 flesh
+The lion feeds on flesh .
+n 肉
+
+13 post
+The result will be posted on the website .
+v 公布
+
+14 legitimate
+Fishing is legitimate there
+adj 合法性
+
+15 fantasy
+This is a period drama with fantasy elements .
+n 幻想
+
+16 altitude
+At this altitude it would be dangerous to fall off .
+n 海拔
+
+17 farmer
+Without farmers ,  we would have no food .
+n 农民
+
+18 pollute
+Few fish can survive in this polluted river .
+v 污染
+
+19 ox
+This strong ox is angry now .
+n 公牛
+
+20 uncover
+He uncovered a classified secret to the public .
+v 揭露
+
+21 pitch
+People use pitch to build roads .
+n 沥青
+
+22 Roman
+This is a Roman historical relic that is still standing in Rome .
+adj 罗马人的
+
+23 ingredient
+Flour is the main ingredient of bread .
+n 成分
+
+24 upward
+The chart shows an upward trend of the housing price .
+adj 向上的
+
+25 contract
+I signed the contract and bought the house .
+n 合同
+
+26 portrait
+This is a portrait of a man .
+n 肖像
+
+27 similar
+These two girls are very similar .
+adj 相似的
+
+28 weak
+The woman on the left has much weak eyesight .
+adj 差的
+
+29 measure
+Some people see a one-yuan coin as a measure of a slender wrist .
+n 标准
+
+30 solidarity
+They are marching together to show solidarity with their leader in their right for environmental reform .
+n 团结一致
+
+31 expertise
+He has considerable expertise in bridge design .
+n 专门知识
+
+32 van
+Food vans on the street have the cheapest and best food .
+n 厢式货车
+
+33 envelope
+The letter is put into the red envelope .
+n 信封
+
+34 trust
+The man on the verge of falling put his trust in his two friends .
+n 信任
+
+35 devise
+The devise a plan for their company's future .
+v  设计
+
+36 activity
+They all like outdoor activities .
+n 活动
+
+37 arrangement
+There is a comfortable arrangement of tables for outdoor dining .
+n 布置
+
+38 princess
+The princess had a pet pony .
+n 公主
+
+39 district
+A new airport has been built in our district .
+n 地区
+
+40 militant
+The two militant puppies love to fight .
+adj 好战的
+
+41 inland
+Those living away from the coast can enjoy the seafood delivered inland .
+adv 在内陆
+
+42 yell
+He is yelling so loud toward the phone ! He must be very angry .
+v 叫喊
+
+43 opening
+The headmaster is making a speech at an opening ceremony .
+n 开幕式
+
+44 investment
+Buying house property is a common type of investment nowadays .
+n 投资
+
+45 revolution
+A revolution in science and technology has changed the way that we communicate .
+n 改革
+
+46 identify
+Your fingerprints are so unique that they can help the police identity you .
+v 识别出
+
+47 address
+Both of them refuse to address the real problems .
+v 解决
+
+48 to
+The word "to" can be used in infinitives .
+prep 不定式
+
+49 her
+She is going to give her mom a big hug .
+pron 她的
+
+50 crazy
+The crazy man wears a watermelon as a hat .
+adj 疯狂的
