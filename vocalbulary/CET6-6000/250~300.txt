@@ -1,1 +1,229 @@
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 shore
+He swam to the shore .
+n 岸
+
+2 entertain
+The woman plays the clown to entertain children at the party.
+v 使快乐
+
+3 ingenious
+The red boat follows an ingenious route .
+adj 有独创性的
+
+4 expect
+She's expecting her baby to be born soon .
+v 期待
+
+5 cancel
+I cancelled my order because I didn't want it .
+v 取消
+
+6 oxide
+Oxygen in the air causes iron oxide to form on these bolts .
+n 氧化物
+
+7 mosquito
+There is a mosquito on my arm .
+n 蚊子
+
+8 doubtful
+I'm doubtful about the true value of the painting .
+adj 怀疑的
+
+9 communist
+Communists hope to create an equal society .
+n 共产主义者
+
+10 ought
+You ought to finish your homework instead of sleeping .
+v 应该
+
+11 courtesy
+He helped her out of car out of courtesy .
+n 礼貌
+
+12 author
+Lu Xun is the author of this book .
+n 作者
+
+13 stake
+We should carefully consider the stake in a plan when investing .
+n 厉害关系
+
+14 tube
+These tubes are made of steel .
+n 管子
+
+15 naked
+The naked baby is crawling and smiling on the floor .
+adj 裸体的
+
+16 repel
+Like poles repel ; unlike poles attract .
+v 排斥
+
+17 loft
+I rent a nice loft apartment . The ceilings are very high .
+n 阁楼
+
+18 Catholic
+The new couple hold their wedding at a Catholic church .
+adj 天主教的
+
+19 linear
+He drew a linear sketch of the building .
+adj 线性的
+
+20 nowhere
+He looked everywhere in the room , but the key was nowhere to be found .
+adv 任何地方都不
+
+21 expedition
+They went on a mountain expedition.
+n 探险
+
+22 band
+The band's live performance fascinated their fans .
+n 乐队
+
+23 unstable
+The scoops of ice cream are so unstable and are about to fall .
+adj
+
+24 transplant
+The houseplant growing in a pot was transplanted to the garden .
+v 移植(植物)
+
+25 influential
+He is such an influential star that many people copy his look .
+adj 有极大影响力的
+
+26 fact
+He seems to be reading but , in fact , he is sleeping .
+n 实际上
+
+27 intense
+Wow , that was an intense thunderstorm !
+adj 强烈
+
+28 case
+We will focus on the worst case .
+n 情况
+
+29 legend
+The film reimagines the legend of Ne Zha with a fresh perspective .
+n 传说
+
+30 oppose
+The boy opposes his father's smoking and tells him to stop .
+v 反对
+
+31 evident
+The cracks in the wall are evident .
+adj 显然的
+
+32 overwhelm
+He is completely overwhelmed by the workload .
+v 压垮
+
+33 rule
+The first rule for the exam is that cellphones are banned .
+n 规则
+
+34 Italy
+I love Italy for the food and sightseeing .
+n 意大利
+
+35 prospective
+The boy is a prospective future football star .
+adj 有希望的
+
+36 tolerant
+He is tolerant of his naughty cat .
+adj 容忍的
+
+37 coil
+This is a coil of metal wire .
+n 一卷
+
+38 missing
+One of the puzzles is missing .
+adj 失踪的
+
+39 wide
+The sofa is wide enough for many people .
+adj 宽阔的
+
+40 novel
+He loves reading novels and these two are his favorites .
+n 小说
+
+41 profound
+The crisis has a profound impact on economy .
+adj 巨大的
+
+42 superior
+The people on the left have to listen to their superior .
+n 上级
+
+43 signature
+Fish and chips is a signature dish of the UK .
+adj 标志性的
+
+44 variety
+We need variety in out diet .
+n 多样性
+
+45 corridor
+The doctors and nurses are talking in the corridor .
+n 走廊
+
+46 communication
+All the icons show different communication methods in modern society .
+n 通信
+
+47 physicist
+Einstein is a great physicist .
+n 物理学家
+
+48 hurl
+When she graduated , she hurled her books into the air .
+v 用力投掷
+
+49 comparative
+I did a comparative study of which kind of car uses the latest fuel , and decide on the smallest car .
+adj 比较的
+
+50 action
+if you want to lose weight , exercise and take action ,
+n 行动
