@@ -28,13 +28,202 @@
 
 
 
+1 luminous
+Fireflies are luminous and glow at night .
+adj 发光的
 
+2 reach
+The city's development has reached its peak.
+v 发展到
 
+3 stabilize
+The meat prices stabilized after a volatile first half of the year .
+v 使稳定
 
+4 whisky
+I prefer whisky over any other hard drink .
+n 威尔士酒
 
+5 pronoun
+If you don't want to say a name , you can just use a pronoun like 'he' or 'she' .
+n 代词
 
+6 scene
+Evidence was found at the crime scene .
+n 事件现场
 
+7 encourage
+The girl is trying to encourage her friend .
+v 鼓励
 
+8 radiate
+The sun radiates light and heat towards the earth .
+v 辐射
 
+9 Sympathetic
+The boy was very sympathetic to his friend who just drop her ice cream .
+adj 有同情心的
 
+10 miss
+All my shots missed the target .
+v 错过
 
+11 cling
+The wet clothes are clinging the boy's body .
+v 黏着
+
+12 spectacular
+Waterfalls are among the most spectacular gifts nation bestows on us .
+adj 壮丽的
+
+13 strange
+The man's strange look grabbed everyone's attention .
+adj 奇怪的
+
+14 peel
+This man is peeling potatoes .
+v 削皮
+
+15 minimize
+We need to minimize the cost .
+v 使减少到最低限度
+
+16 beauty
+There are many kinds of beauty products .
+n 美容品
+
+17 okay
+This clay tastes okay .
+adj 不错的
+
+18 Sunday
+We don't have to go to school on Sunday . Let's play !
+n 星期天
+
+19 state
+Alaska is the northernmost state of America .
+n 州
+
+20 eventually
+After weeks of hard study , he eventually got a satisfying result .
+adv 终于
+
+21 crush
+The can was crushed and put into the recycling bin .
+v 压扁
+
+22 lord
+He's a English lord honored by the king .
+n 有爵位的贵族
+
+23 sunlight
+The sunlight brightens the green filed .
+n 阳关
+
+24 bathroom
+This bathroom contains a washbasin  , a toilet and a shower .
+n 浴室
+
+25 quotation
+People often apply quotation from Shakespeare .
+n 引文
+
+26 generate
+A man is riding the bicycle to generate electricity .
+v 产生
+
+27 republican
+Ancient Rome had a republican form of government .
+adj 共和国的
+
+28 garbage
+A few bags of garbage was left on the street .
+n 垃圾
+
+29 infant
+The infant in the duck towel is laughing happily .
+n 婴儿
+
+30 greet
+Dog says "Hi" to greets people .
+v 问候
+
+31 riddle
+There are plenty of vivid riddles in Chinese .
+n 谜语
+
+32 assign
+Our teacher assigned us lots of homework .
+v 分配
+
+33 combat
+The doctor and nurses are combating the virus .
+v 与 ... 战斗
+
+34 eccentric
+Dali is an eccentric artist of the surrealist movement .
+adj 古怪的
+
+35 destructive
+The destructive winds caused serious damage to the houses.
+adj 毁灭的
+
+36 grey
+The gray T-shirt is more popular than the white one .
+adj 灰色
+
+37 indeed
+We all think it is good indeed .
+adv 确实
+
+38 statue
+The Statue of Liberty guards the entrance to New York harbour .
+n 雕像
+
+39 Bible
+He is reading from the Bible in a church .
+n 圣经
+
+40 inside
+There is a little rabbit inside .
+adv 在内部
+
+41 let
+The waiter opened the door and let customers in .
+v 允许
+
+42 premier
+Churchill was a great premier in the UK history .
+n 总理
+
+43 nor
+Neither smoking nor drinking is allowed here .
+conj 也不
+
+44 stab
+I felt as if something had stabbed me in the heart with a knife .
+v 刺伤
+
+45 certain
+Cert peanuts are placed on the left side of the table .
+adj 某些
+
+46 suspect
+The police suspects the two guys are doing something weird .
+v 推测
+
+47 salary
+They are receiving their monthly salary from Load Bao .
+n 工资
+
+48 figure
+This famous figure is surrounded by photographers .
+n 人物
+
+49 soar
+It's wonderful to soar in the sky like a bird .
+v 高飞
+
+50 song
+We all sang a song together on New Year's Day .
+n 歌曲
