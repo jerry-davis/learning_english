@@ -224,6 +224,6 @@ adj 纯利
 We saw a cumulative increase in sales .
 adj 积累的
 
-30 cassette
+50 cassette
 People used to play music with cassette tapes .
 n 录像带
