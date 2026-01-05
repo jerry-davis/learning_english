@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 decide
+It's time to decide which way to go .
+v 决定
+
+2 deepen
+The pit has been deepened by the worker .
+v 使 ... 变深
+
+3 misery
+Her misery is due to her mother's death .
+n 痛苦
+
+4 equivalent
+The weight of three small balls is equivalent to that of this large one .
+adj 相等的
+
+5 tissue
+These organs are formed by tissues .
+n 组织
+
+6 beard
+He likes to touch his beard when he thinks .
+n 胡须
+
+7 retail
+The retail price of watermelon is two yuan per jin .
+adj 零售的
+
+8 dictate
+It is you who dictate your future .
+v 支配
+
+9 engagement
+Solving the problem will require everyone's engagement .
+n 参加
+
+10 anyone
+Would anyone like some gum ?
+pron 任何人
+
+11 local
+The local people have their own clothing and culture .
+adj 当地的
+
+12 visitor
+There are some visitors in this place every day .
+n 游客
+
+13 insist
+His mother insists that he should put on his warm pants .
+v 坚持
+
+14 rumor
+Online rumor shouldn't be trusted .
+n 谣言
+
+15 implication
+The teacher clarified the implication of the problem .
+n 含义
+
+16 technology
+VR is a powerful area of growth of technology .
+n 技术
+
+17 rake
+He is raking up the golden leaves on an autumn morning .
+v 耙
+
+18 clap
+The audience clapped for the amazing performance of the band .
+v 拍手
+
+19 impetus
+The boss's praise gives him the impetus to work harder .
+n 推动力
+
+20 steward
+The steward is preparing for banquet .
+n 管家
+
+21 hole
+The hole in the tree trunk is the home of the small animal .
+n 洞
+
+22 highly
+I highly recommend you today's special dish - snail and goose liver with red wine .
+adv 高度地
+
+23 sun
+The sun is going down .
+n 太阳
+
+24 throat
+I had a sore throat after I caught a cold .
+n 咽喉
+
+25 forty
+Congratulations on turning forty years old .
+num
+
+26 wholly
+Mr. Elephant wholly owned this company .
+adv 完全地
+
+27 radiation
+Don't get close to radiation if you are not in a protective suit .
+n 辐射
+
+28 recruit
+Student clubs recruit new members every year .
+v 招收(新成员)
+
+29 terrify
+The boys were terrified by the horror moive .
+v 使害怕
+
+30 camera
+She is able to take high quality photos with that camera .
+n 照相机
+
+31 disclose
+The truth needs to be disclosed .
+v 公开
+
+32 periodical
+She liked to read this periodical which is published every month .
+n 期刊
+
+33 cite
+He cited a sentence said by a famous writer to start his speech .
+v 引用
+
+34 baby
+What a cute hat for that baby .
+n 婴儿
+
+35 prejudice
+The other elephants held a prejudice against him because of his giant ears .
+n 偏见
+
+36 relation
+They have built a business relation ;  they're partners from now on .
+n 关系
+
+37 purity
+White roses are a symbol of purity .
+n 纯洁
+
+38 absolute
+Marx thought that motion is absolute , while stillness is relative .
+adj 绝对的
+
+39 recall
+Looking at the photo , she recalled the old time with her husband .
+v 回忆起
+
+40 refreshment
+She is taking some of the refreshments provided by the meeting .
+n 茶歇
+
+41 embrace
+More and more stores have embraced mobile payments recently .
+v 乐意采纳
+
+42 attractive
+With such a low price , the hotel room is really attractive .
+adj 诱人的
+
+43 enhance
+Clicking this button can enhance the video quality .
+v 提高
+
+44 honesty
+The boy shows honesty by saying that he broke the vase .
+n 诚实的
+
+45 discuss
+The students discussed the question on the blackboard .
+v 讨论
+
+46 dog
+Your dog is really cute .
+n 狗
+
+47 loyalty
+I love my dog because of his strong sense of loyalty .
+n 忠诚
+
+48 link
+There is a causal link between smoking and lung cancer .
+n 联系
+
+49 mission
+The soldiers advance to complete the mission .
+n 使命
+
+50 stamp
+The painting bears the stamp of genius .
+n 印记
