@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 pastime
+Reading is my favorite pastime .
+n 消遣
+
+2 best
+The restaurant in the middle is the best of the three .
+adj 最好的
+
+3 category
+Please put the document in the correct category .
+n 类别
+
+4 picture
+We took a group of picture in front of this famous attraction in Rome .
+n 照片
+
+5 frighten
+My brother jumped out of the closet and frightened me  .
+v 使害怕
+
+6 cabin
+We like to go to our small log cabin in the woods .
+n (山中或者树林)小木屋
+
+7 occurrence
+Given that whale sightings are a rare occurrence , these guys are very lucky !
+n 出现
+
+8 nuisance
+That neighbor who plays loud music late at night is a real nuisance .
+n 讨厌的人
+
+9 while
+The boy is playing a game while his roommate is reading a book .
+n 当 ... 时候
+
+10 tough
+You have to be tough enough to climb the snow mountain .
+adj 坚韧的
+
+11 forthcoming
+The forthcoming movie looks awesome ; I can't wait to watch it .
+adj 即将出现
+
+12 onion
+These two onions are not of the same size .
+n 洋葱
+
+13 meaning
+The ring has a special meaning at the wedding .
+n 意义
+
+14 when
+The boy was watching TV when his mother came in .
+conj 在... 时候
+
+15 replace
+The robot wants to replace the human worker.
+v 代替
+
+16 sixth
+He's in the sixth grade .
+num 第六个
+
+17 symmetry
+Their alpaca-like hairstyles exhibit an interesting symmetry .
+n 对称性
+
+18 day
+A day has 24 hours .
+n (一)天
+
+19 imperial
+The Forbidden City is an imperial palace .
+adj 皇帝的
+
+20 utilize
+The heating system utilizes the sun as an energy system .
+v 使用
+
+21 climb
+The picture shows the dollar's climb in prices against the euro .
+n 升值
+
+22 hierarchy
+In the hierarchy , I'm number one ; everyone must listen to me .
+n 阶层
+
+23 queer
+That lobster has a queer blue color .
+adj 怪异的
+
+24 rubbish
+Please put your rubbish in the bag .
+n 垃圾
+
+25 neutral
+He remained neutral in the disagreement , not taking either side .
+adj 中立的
+
+26 hostage
+The monkey held the boy hostage in exchange foe bananas .
+n 人质
+
+27 petition
+The villagers signed a petition asking for a new school .
+n 请愿书
+
+28 saddle
+There is a leather saddle on the back of the horse .
+n 鞍
+
+29 mingle
+The sounds of laughter and singing mingled in the evening air .
+v 使混合
+
+30 secretary
+The secretary takes phone calls , arranges meetings and takes care of general affairs .
+n 秘书
+
+31 disperse
+The paint quickly disperses in the water .
+v 分散
+
+32 tile
+The root of the house is made of tiles .
+n 瓦
+
+33 preference
+Preference should be given to the old in modern society .
+n 优先权
+
+34 symposium
+Let's hold a symposium to talk about how to improve government policy .
+n 专题报道
+
+35 ascend
+The walking group are ascending to the summit of the mountain .
+v 沿着... 上升
+
+36 approve
+My boss approved of my plan with his signature .
+v 批准
+
+37 flaw
+The beautiful painting is flawed by the stain .
+v 使 .. 有缺陷
+
+38 drawing
+That's a simple drawing of a big head man .
+n 绘画
+
+39 fantastic
+The moon looks fantastic tonight - look how huge it is .
+adj 极好的
+
+40 positive
+He faces every situation with a positive attitude .
+adj 乐观的
+
+41 democracy
+Voting is an important part of democracy .
+n 明主制度
+
+42 fourth
+This is my forth birthday .
+num 第四的
+
+43 hearing
+You must speak loud because his hearing is not good .
+n 听力
+
+44 weapon
+We used many weapons to defeat the enemy .
+n 武器
+
+45 dozen
+There are a dozen eggs in a box on the table .
+num 十二个
+
+46 reading
+The girl enjoys reading at home .
+n 阅读
+
+47 manuscript
+This a manuscript of a famous writer .
+n 手稿
+
+48 whenever
+You can call customer service whenever you want .
+conj 无论何时
+
+49 possible
+What is inside these boxes ? Anything is possible .
+adj 可能
+
+50 probable
+It's probable that he will go the fast food restaurant because he is pretty hungry now .
+adj 很有可能
