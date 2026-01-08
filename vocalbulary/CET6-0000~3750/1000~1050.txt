@@ -36,14 +36,194 @@ adj 不仁慈的
 The doctor recommends that I should drink more water .
 v 建议
 
+3 ribbon
+This is a red roll of ribbon .
+n 丝带
 
+4 vegetable
+These are just a few of the fresh , ripe vegetable in my garden .
+n 蔬菜
 
+5 stomach
+We should eat healthy food if we want a strong stomach .
+n 胃
 
+6 angle
+The tower leans at an angle .
+n 角度
 
+7 hungry
+I'm very hungry , so I can eat a lot .
+adj 饥饿
 
+8 quench
+The tennis player quenches her thirst with water .
+v 止渴
 
+9 Soviet
+Here are four posters from the Soviet Union era .
+n 苏维埃
 
+10 reasonable
+The snacks are sold at a reasonable price .
+adj 合理的
 
+11 ache
+Mark had an ache in his back .
+n 疼痛
 
+12 glory
+The pupil is completely immersed in the glory of receiving a red scarf .
+n 关荣
 
+13 electron
+An electron moves around an atom's nucleus .
+n 电子
 
+14 adjust
+It's too hot in the room ; I'll adjust the temperature .
+v 调整
+
+15 hurricane
+Run ! The hurricane is coming .
+n 飓风
+
+16 difficulty
+He is having difficulty holding up the board .
+n 困难
+
+17 lag
+He tends to lag during long races .
+v 落后
+
+18 extremely
+Compared with the Earth , the Sun is extremely large .
+adv 极其
+
+19 ill
+There is a lot of ill feeling between the two chickens.
+adj 坏的
+
+20 play
+The doctor said exercise plays an important part in her recovery .
+v 发挥作用
+
+21 French
+The Eiffel Tower is a French landmark .
+adj 法国人的
+
+22 jew
+The Jew celebrate the Festival of Lights with candles.
+n 犹太人
+
+23 solution
+I think the other plan is a better solution .
+n 解决方案
+
+24 classmate
+All of my classmate are in this class photo .
+n 同班同学
+
+25 offspring
+The parents love their offspring more than anything else .
+n 后代
+
+26 dominate
+He dominated the team and always led the teammates in the right direction .
+v 在... 中占首要地位
+
+27 eve
+We set off some fireworks on New Year's Eve .
+n 前夕
+
+28 dial
+I am dialing a number on my phone .
+v 拨
+
+29 goods
+The goods are sent to us every day .
+n 货物
+
+30 clearly
+The shoe print is clearly shown on the sand .
+adv 清晰的
+
+31 smoothly
+This pen writes smoothly .
+adv 流畅地
+
+32 horrible
+I did not expect to see such a horrible scene on the phone .
+adj 可怕的
+
+33 fruitful
+This is a fruitful meeting .
+adj 富有成效的
+
+34 intelligence
+Einstein was a man of great intelligence .
+n 智利
+
+35 prevalent
+It's prevalent that this kind of mobile telephones was used in the 90s .
+adj 流行的
+
+36 stupid
+The donkey made a stupid mistake .
+adj 愚蠢的
+
+37 cycle
+You can learn the water cycle from this picture .
+n 周期
+
+38 guardian
+The frontier soldiers are the guardian of national territory .
+n 守护着
+
+39 every
+You cannot trust every businessman .
+det 每一个
+
+40 resemble
+These two men resemble each other , so it's hard to tell them apart .
+v 像
+
+41 suggestion
+The doctor gave some health suggestion to the patient .
+n 建议
+
+42 distinguish
+It's easy to distinguish the blue man from the gray men .
+v 区别
+
+43 extend
+The highway extends all the way to the horizon .
+v 延伸
+
+44 vanity
+It's clear that this man's level of vanity is far too high .
+n 自负
+
+45 improvement
+I hope our sales show some improvement soon .
+n 改善
+
+46 mobilize
+Our teacher mobilized us to study hard for the exam .
+v 动员
+
+47 brittle
+The wine glass looks brittle . Use it carefully .
+adj 易碎的
+
+48 scent
+She loves the scent of the sunflower.
+n 气味
+
+49 rude
+It's very rude to jump the queue .
+adj 粗鲁的
+
+50 crown
+The man is about to put on his crown .
+n 王冠
