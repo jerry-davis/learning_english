@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 buy
+The couple was excited to buy their first home together .
+v 买
+
+2 cotton
+Many clothes are made from cotton , which comes from a plant .
+n 棉花
+
+3 vapour
+Water vapour arose from the bolling pool .
+n 蒸汽
+
+4 theirs
+Now, the big house is theirs .
+pron 他们的(所有物)
+
+5 well-known
+It is a well-known fact that smoking is bad for our health .
+adj 众所周知的
+
+6 Brazil
+There are many interesting things in Brazil .
+n 巴西
+
+7 stroke
+Stroke is commonly found among old people .
+n 中风
+
+8 remarkable
+Alex's performance has been remarkable in recent months .
+adj 显著的
+
+9 retreat
+It's said Noah's Ark is the ultimate retreat of the Earth creatures .
+n 所藏处
+
+10 camp
+Our camp is located by the lake .
+n 营地
+
+11 exquisite
+He spent a fortune on this exquisite necklace for her .
+adj 精致的
+
+12 height
+The woman is measuring her daughter's height .
+n 高度
+
+13 lunar
+One bite of the dog results in the lunar eclipse .
+adj 月球的
+
+14 foster
+Her parents play songs to foster her interest in music .
+v 培养
+
+15 trim
+The barber is trimming the puppy's hair to make it look neater .
+v 修建
+
+16 roller
+A roller can be used to paint a wall faster than a paintbrush .
+n 滚筒
+
+17 alike
+The twins always dress in alike white dotted skirt .
+adv 同样都
+
+18 clinic
+Patients are waiting to see a doctor in the clinic .
+n 诊所
+
+19 context
+We need the context to choose the right answer .
+n 上下文
+
+20 accustomed
+He got accustomed to the food after 10 years of living here .
+adj 习惯的
+
+21 solar
+Solar energy is necessary for life .
+adj 太阳能的
+
+22 replacement
+She threw away the worn curtain and found a replacement .
+n 代替物
+
+23 establishment
+He cut the ribbon at the grand opening of the establishment .
+n 建立
+
+24 sheer
+The ricky cliff over the ocean is so sheer .
+adj 陡峭的
+
+25 despise
+The dog despises the cat for licking it ass .
+v 蔑视
+
+26 adult
+An adult is a person who is 18 years old or over .
+n 成年人
+
+27 political
+The young man is giving a political speech to the public .
+adj 政治的
+
+28 abundant
+Fish are abundant in the lake .
+adj 丰富的
+
+29 worthy
+She is worthy of respect as she sacrificed herself for others.
+adj 值得 ... 的
+
+30 reality
+We can't see the reality sometimes .
+n 现实
+
+31 square
+The area of this square is 4 square meters .
+adj 平方的
+
+32 sanction
+The boss has given sanction to install air conditioners .
+n 批准
+
+33 gown
+The bride wore a beautiful white wedding gown .
+n 女礼服
+
+34 universe
+There are a lot of stars in the universe .
+n 宇宙
+
+35 grape
+These grape would soon be turned into expensive wine .
+n 葡萄
+
+36 intuition
+The detective has an intuition about the murder which helped him solve the case .
+n 直觉
+
+37 unwilling
+The dog is unwilling to follow its master .
+adj 不愿意
+
+38 emperor
+In ancient China , the emperor had supreme power .
+n 皇帝
+
+39 assault
+The troops are conducting an assault on the enemy lines .
+n 攻击
+
+40 foresee
+He foresaw that his journey would be delayed by bad weather .
+v 预测
+
+41 radius
+The circle's radius is about 10 centimeters .
+n 半径
+
+42 supper
+We had a big supper today .
+n 晚餐
+
+43 quicken
+The car quickens .
+v 变快
+
+44 fur
+A fur coat is very warm , but very expensive .
+n 毛皮
+
+45 nineteen
+I am nineteen years old now .
+num 19
+
+46 concentration
+Repairing watches requires a great deal of concentration .
+n 专注
+
+47 deaf
+The girl is completely deaf ; she can't hear anything .
+adj 聋的
+
+48 various
+We saw various types of fish during our dive .
+adj 各种各样的
+
+49 disregard
+The parents disregarded the little boy's pleas .
+v 漠视
+
+50 entail
+Smoking is likely to entail serious health problems .
+v 导致
