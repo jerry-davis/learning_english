@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 restore
+We hope to restore the garden to its former beauty .
+v 恢复
+
+2 nonsense
+What you're saying is nonsense .
+n 废话
+
+3 Negro
+It's very insulting to call a black person "Negro" .
+n 黑人(有冒犯的意思)
+
+4 everything
+The man had eaten everything in the fridge .
+pron 一切事物
+
+5 badminton
+These kids are playing badminton in the park .
+n 羽毛球
+
+6 weld
+He is welding together the two pieces of metal .
+v 焊接
+
+7 agree
+She agreed to go shopping with her friend .
+v 同意
+
+8 conservation
+Conservation of our environment is very important .
+n 保护
+
+9 disgust
+What really disgusts me is eating an entire worm in the apple .
+v 使厌恶
+
+10 tortoise
+Look , this tortoise is crawling .
+n 陆龟
+
+11 ahead
+I am running ahead of the rest of the group .
+adv 领先
+
+12 brighten
+The candle brightens her face .
+v 使变亮
+
+13 abundance
+The cute animal has a abundance of food .
+n 丰富
+
+14 decisive
+The last judge has the decisive vote in deciding the winner .
+adj 决定性的
+
+15 sparkle
+The stars are beautiful as they sparkle in the sky .
+v 闪耀
+
+16 bureau
+The Federal Bureau of Investigation is a government agency in the United States investigating crimes .
+n 局
+
+17 clothing
+I bought some new things from the clothing store .
+n 衣服
+
+18 keyboard
+The keyboard consists of white keys and black keys .
+n 键盘
+
+19 dialog
+The two sides entered into a peace dialog .
+n 对话
+
+20 develop
+The city's road system is developing very rapidly .
+v 发展
+
+21 elapse
+Many years elapsed before the childhood playmates met again .
+v 流逝
+
+22 span
+A bridge spans the sea .
+v 横跨
+
+23 location
+I found the location on the map .
+n 位置
+
+24 shabby
+Our plan was to buy and fix the shabby old house .
+adj 破烂的
+
+25 star
+A pop star is singing at the stage center .
+n 明星
+
+26 civilization
+Atlantis is a lost civilization .
+n 文明
+
+27 trunk
+Look , the elephant is spraying water with its trunk .
+n 象鼻
+
+28 opinion
+Different people have different opinions about the same things .
+n 意见
+
+29 quarrel
+The boy and the girl is quarrelling with each other .
+v 争吵
+
+30 brood
+He is brooding over some tough questions .
+v 冥思苦想
+
+31 fierce
+He can't swim here because of the fierce wave .
+adj 恶劣的
+
+32 dense
+This area is very dense with so many buildings everywhere .
+adj 密集的
+
+33 fear
+The mother fears for her daughter's grades .
+v 担心
+
+34 charge
+We provide delivery service free of charge .
+n 费用
+
+35 them
+Both of them enjoy meal .
+pron 他们
+
+36 African
+African specialities include instruments , wildlife , and diamonds .
+adj 非洲的
+
+37 vigorous
+Children are always vigorous .
+adj 精力充沛的
+
+38 greenhouse
+Greenhouse are the best place to grow plants quickly .
+n 温室
+
+39 game
+We have a good time playing the board game together .
+n 游戏
+
+40 contemporary
+My friends and I are contemporaries .
+n 同龄人
+
+41 detail
+When the leaf is seen up close , you can see a lot of fine details .
+n 细节
+
+42 heighten
+You can use the eye shadow to heighten the beauty of your eyes .
+v 加强
+
+43 road
+There are lots of cars on the road .
+n 公路
+
+44 require
+Trees in this area require more water .
+v 需求
+
+45 carriage
+I would love to take a carriage ride with you in the park .
+n 四轮马车
+
+46 costly
+The diamond ring is quite costly .
+adv 昂贵的
+
+47 obey
+The dog always obeys its master .
+v 服从
+
+48 ending
+There are thousands of nerve endings in the human brain .
+n 末梢
+
+49 rusty
+The rusty old van was not fit to drive .
+adj 生锈
+
+50 shoe
+There are two types of sport shoes on the floor .
+n 鞋子
