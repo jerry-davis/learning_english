@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 trade
+International trade has become a major source of income for this company .
+n 贸易
+
+2 biology
+Biology is the study of life and living things .
+n 生物学
+
+3 physician
+The physician is examining the old man .
+n 内科医生
+
+4 diversion
+We have to take a diversion as there is a barrier .
+n 绕行路
+
+5 care
+The nurse is taking care of the old man .
+n 照顾
+
+6 inspection
+The mechanic gave the car a thorough inspection according to the check list .
+n 检查
+
+7 traitor
+The mouse is a traitor and has been leaking secrets to the enemy .
+n 卖国贼
+
+8 light
+The light of the candle lightens the darkness .
+n 光亮
+
+9 magazine
+I like to read magazines about fashion and celebrities .
+n 杂志
+
+10 bull
+A bull market is a situation in which share prices are rising .
+n 公牛
+
+11 ticket
+They got two tickets to fly back .
+n 票
+
+12 rate
+My heart is beating at a normal rate .
+n 比率
+
+13 insect
+There are many kinds of insects , such as butterflies , bees and ants .
+n 昆虫
+
+14 curse
+I'll draw a circle to lay a curse on you !
+n 诅咒
+
+15 union
+The union is trying to protect their rights as workers .
+n 工会
+
+16 reed
+My boat is stuck in the reed . please help me move it .
+n 苇丛
+
+17 dynamic
+What is the dynamic behind the rise of stock price ?
+n 动力
+
+18 hateful
+They don't like each other . I can tell from their hateful looks .
+adj 充满憎恨的
+
+19 feeling
+She was overcome with a nice feeling .
+n 感觉
+
+20 cradle
+The adorable baby is resting in the cradle .
+n 摇篮
+
+21 often
+It often rains in London .
+adv 经常
+
+22 incidence
+Every year , the incidence of heart disease goes up .
+n 发生率
+
+23 ninety
+Will you live to ninety years old ?
+num 90
+
+24 consensus
+We finally reached a consensus during the business meeting .
+n 一致同意
+
+25 extension
+The company has it business extension across the country .
+n 扩展
+
+26 sad
+The lonely dog is sad because the owner is on holiday .
+adj 难过的
+
+27 ice
+She is holding some ice in her hands .
+n 冰块
+
+28 technician
+We brought our technician in to repair our computers .
+n 技术员
+
+29 relationship
+These five people have different relationships with each other .
+n 关系
+
+30 map
+He mapped the town on a piece of paper .
+v 为... 绘制地图
+
+31 world-wide
+There are many methods for world-wide communication .
+adj 遍及全球的
+
+32 need
+The baby girl badly needs her mother .
+auxv 需要
+
+33 elbow
+My elbow hurts really bad !
+n 手肘
+
+34 naturally
+Some people have naturally frizzy hair .
+adv 自然地
+
+35 incorporate
+The app update incorporates many new features and improvements .
+v 包含
+
+36 await
+People are awaiting the bus .
+v 等候
+
+37 global
+With the Internet , we can have a global network of friends .
+adj 全球的
+
+38 underestimate
+The boxer underestimated the strength of his opponent .
+v 低估
+
+39 skillful
+There are very skillful skateboarders .
+adj 娴熟的
+
+40 Portugal
+The color of the national flag of Portugal is mainly red and green .
+n 葡萄牙
+
+41 breath
+Hearing this stupid response , he became short of breath .
+n 呼吸的空气
+
+42 conscious
+What the doctor said made him conscious that he should quit his unhealthy habits .
+adj 意识到的
+
+43 assurance
+She spoke with assurance , clearly confident in her expertise .
+n 信心
+
+44 Canadian
+The Canadian flag is waving under the blue sky .
+adj 加拿大的
+
+45 occupation
+What kind of occupation will you choose ?
+n 职业
+
+46 easily
+My four-year-old son can already solve math problems easily .
+adv 容易地
+
+47 independent
+She can't walk , but she is independent .
+adj 独立的
+
+48 rely
+I often rely on instant food because I am so bad at cooking .
+v 依赖
+
+49 clip
+He enjoys watching clips from classic movies .
+n 片段
+
+50 specially
+The car was specially designed for him .
+adv 特别地
