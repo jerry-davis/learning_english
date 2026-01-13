@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 objective
+The objective behind the business is very clear .
+n 目标
+
+2 born
+The couple was so happy when the baby was born .
+v 出生(被动)
+
+3 statement
+The judge made the judgement based on the statement of the man .
+n 称述
+
+4 loudspeaker
+I could hear the music from the loudspeaker .
+n 扩音器
+
+5 motor
+I bought a nice new motor .
+n 车
+
+6 trench
+The worker are busy digging a trench .
+n 沟
+
+7 impatient
+My girlfriend was an hour late for our date . I was getting impatient .
+adj 不耐心的
+
+8 score
+He is very happy for his high scores .
+n 成绩
+
+9 currency
+The currency of the United States of American is the US dollar .
+n 货币
+
+10 prose
+This piece of prose is famous for its beautiful language .
+n 散文
+
+11 insane
+The mental patient is totally insane because he images himself as a dog .
+adj 精神失常的
+
+12 inlet
+This part of the country has many small rivers and inlets .
+n 水湾
+
+13 drag
+You can drag this picture from this folder to the other .
+v 拖
+
+14 mysterious
+Oh my God ! A mysterious man is running in my yard !
+adj 神秘的
+
+15 actually
+Mary may appear to be reading , but actually she is thinking about food .
+adv 实际上
+
+16 crisp
+He likes eating potato chips because they are very crisp .
+adj 脆
+
+17 fly
+I'd like to fly up towards the sun , like an eagle .
+v 飞行
+
+18 reflect
+Our face often reflects our mood .
+v 反映
+
+19 hasty
+He was hasty when running to the office .
+adj 匆忙的
+
+20 professional
+The school provides professional training in how to operate a digger .
+adj 专业的
+
+21 command
+The clever dog can understand its master's command .
+n 指令
+
+22 plateau
+The view from the plateau is absolutely breathtaking .
+n 高原
+
+23 worm
+Worms make good fish bait .
+n 虫
+
+24 heat
+The heat form the fire is a good way to stay warm .
+n 高温
+
+25 car
+There is a green car parked at the side of the road .
+n 汽车
+
+26 quickly
+She runs and eats so quickly .
+adv 迅速地
+
+27 squeeze
+I'll squeeze some oranges to make orange juice .
+v 用力挤压
+
+28 propel
+The engine's power propels the rocket into space .
+v 推进
+
+29 valid
+The official stamp showed that the document was valid .
+adj 有效的
+
+30 streamline
+The design of the car has been streamlined , so it can go even faster .
+v 使 ... 成流线型
+
+31 eyesight
+You eyesight is terrible ! You need glasses .
+n 视力
+
+32 glow
+The burning coals glow in the dark .
+v 发出微弱的光
+
+33 minimal
+The first apple on the left is the minimal one .
+adj 最小的
+
+34 frequency
+You will go to the bathroom at a much higher frequency if you drink too much water .
+n 频次
+
+35 member
+I am a member of this club .
+n 成员
+
+36 future
+Maybe humans will live on other planets in the future .
+n 未来
+
+37 aural
+High levels of aural pollution in cites can drive you crazy !
+adj 听觉的
+
+38 background
+They come form different cultural backgrounds.
+n 出生
+
+39 whisper
+The little boy is whispering something to his grandfather .
+v 小声说
+
+40 yearly
+The yearly rental of the house is 2,300 dollars .
+adj 每年的
+
+41 motel
+I drove all night until I found a motel where I could stay .
+n 汽车旅馆
+
+42 series
+She enjoys watching TV series at night .
+n 系列
+
+43 hence
+There is always someone stealing the cron ; hence, a fence has been built .
+adv 因此
+
+44 proclaim
+The official proclaimed a statement to media , explaining what he thought about certain things .
+v 声明
+
+45 experiment
+There are many scientists doing experiments to find a cure .
+n 实验
+
+46 without
+I feel so lonely without you .
+prep 没有
+
+47 equipment
+The students now enjoy using exercise equipment for working out .
+n 设备
+
+48 surname
+Please write your first name and surname here .
+n 姓
+
+49 attraction
+The park's attraction is enhanced by its beautiful gardens .
+n 吸引力
+
+50 skeptical
+I am skeptical that the weasel did not come here merely to extend his greetings .
+adj 表示怀疑的
