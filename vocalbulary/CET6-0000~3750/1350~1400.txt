@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 list
+I am checking my shopping list .
+n 清单
+
+2 wrench
+The worker used a wrench to repair the sink .
+n 扳手
+
+3 sale
+The recent sales have dropped greatly .
+n 销售额
+
+4 ancestor
+It's said that the ancestor of whales may have had four limbs .
+n 祖先
+
+5 ride
+When I ride my bike , I always wear a helmet for safety .
+v 骑车
+
+6 daughter
+The father is staring at his daughter with a smile .
+n 女儿
+
+7 ladder
+He is climbing up the ladder of success .
+n 阶梯
+
+8 capacity
+The man has the capacity of doing many things at the same time .
+n 能力
+
+9 invisible
+In the movie , he has the super ability of being invisible .
+adj 看不见的
+
+10 schedule
+According to the schedule ,  I have lots of work to do today .
+n 时间表
+
+11 provision
+Pay attention to every provision when signing a contract .
+n (法律的)条款
+
+12 bet
+I bet on the score of a game , and I won .
+v 打赌
+
+13 badly
+This restaurant serves the customers badly .
+adv 坏
+
+14 Marxism
+Marxism and capitalism are very different economic ideas .
+n 马克思主义
+
+15 teenager
+Teenagers are always full of energy .
+n 青少年(13~19)
+
+16 offensive
+It's offensive to invade someone's privacy .
+adj 冒犯的
+
+17 summary
+He wrote a summary of his trip .
+n 总结
+
+18 response
+They have different responses to the film .
+n 反应
+
+19 prime
+Chinese kung fu is one of the prime examples of Chinese culture .
+adj 典型的
+
+20 skin
+There people have different skin colors .
+n 皮肤
+
+21 warrant
+The hot water warrants drinking extra water everyday .
+v 使 ... 有必要
+
+22 foot
+She is lying in the sun with bear feet .
+n 脚
+
+23 toward
+We need to hold a positive attitude toward problems .
+prep 对于
+
+24 slot
+Put the coin into the slot .
+n (投硬币的)狭缝
+
+25 committee
+The committee members come to the meeting to make decisions for the group they represent .
+n 委员会
+
+26 pool
+The inflatable ring was floating in the swimming pool .
+n 泳池
+
+27 die
+Many people died in the war .
+v 死亡
+
+28 elementary
+Most people receive their elementary school education from the age of 6 to 12 .
+adj 初级的
+
+29 portray
+I like to portray beautiful flowers in my paintings .
+v 描述
+
+30 eleven
+My favorite number is eleven .
+num 11
+
+31 correct
+Only the lady knows the correct answer .
+adj 正确的
+
+32 accordance
+The man should cross the road in accordance with traffic rules .
+n 按照
+
+33 slow
+The video loading speed is very slow .
+adj 缓慢的
+
+34 fun
+The baby thought it was great fun to play with her dad .
+adj 有趣的
+
+35 blaze
+The dried plants rapidly turned into a blaze .
+n 大火
+
+36 geography
+I am an expert in geography and can name all the counties in the world .
+n 地理学
+
+37 shine
+The sun is shining in the sky .
+v 照耀
+
+38 classify
+Please classify the documents into the correct folders .
+v 把 ... 分类
+
+39 civil
+President Abraham Lincoln was a leading figure during the Civil War .
+adj 国内的
+
+40 family
+The big family is having a good time .
+n 家庭
+
+41 bathe
+The dog , cat and duck love to bathe together .
+v 洗澡
+
+42 mix
+Candies of different flavors are mixed together .
+v 混合
+
+43 hoist
+We use the machine to hoist the hung stone off the ground .
+v 升起
+
+44 prominent
+The statue in the plaza was one of a prominent person from the history of our school .
+adj 杰出的
+
+45 cherry
+Cherry juice is good for your skin .
+n 樱桃
+
+46 scrutiny
+The company's financial reports are under intense scrutiny .
+n 仔细检查
+
+47 drum
+She is playing drum for the musical show .
+n 鼓
+
+48 quote
+He is thinking about a famous quote .
+n 引文
+
+49 acre
+An acre is equal to approximately 4,047 square meters .
+n 英亩(4047 m2)
+
+50 confidential
+He destroyed the confidential document as soon as he had finished reading it .
+adj 机密的
