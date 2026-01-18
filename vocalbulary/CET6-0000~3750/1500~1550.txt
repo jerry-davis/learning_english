@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 perish
+Without water ,  plants will perish .
+v 死亡
+
+2 shelf
+There are many books on the shelf .
+n 架子
+
+3 alarm
+He switched off the fire alarm .
+n 警报器
+
+4 corrupt
+The corrupt behavior of the rat is simple contemptible .
+adj 腐败的
+
+5 super
+Superman has all kinds of super powers , like flying and super strength .
+adj 超级的
+
+6 bewilder
+She is bewildered ; she doesn't know what to do .
+v 使困惑
+
+7 clarity
+The clarity of the water allows us to see all the fish clearly .
+n 清澈
+
+8 victim
+The family are victim of the blood , and they are now homeless .
+n 受害者
+
+9 comrade
+He and his comrades fight together .
+n 战友
+
+10 moderate
+The yellow area indicates moderate power output .
+adj 中等的
+
+11 sharply
+Demand for this kind of drink has risen sharply .
+adv 急剧地
+
+12 cream
+This cream will make you younger .
+n 面霜
+
+13 leave
+There are some trash left in the stadium after the match .
+v 留下
+
+14 pasture
+What a beautiful sight - cattle grazing peacefully on a green pasture .
+n 牧场
+
+15 fifty
+My father is turning fifty today .
+num 五十
+
+16 ripe
+When bananas become ripe , they turn yellow .
+adj 成熟的
+
+17 long
+Her beautiful blonde hair is long and curly .
+adj 长的
+
+18 obtain
+The player killed an enemy and obtained a new weapon .
+v 获得
+
+19 duplicate
+He duplicates the work of turning the screws every day .
+v 重复
+
+20 ultimately
+Ultimately , he decided to go to the university close to his home .
+adv 最终地
+
+21 successful
+I will be successful .
+adj 有成就的
+
+22 identical
+All of the building in this row are identical .
+adj 相同的
+
+23 fry
+It's easy to fry eggs ; I can make two for you .
+v 油煎
+
+24 racial
+The three actresses in this series are of different racial origins .
+adj 种族的
+
+25 bury
+The ostrich buried its head in the sand .
+v 隐藏
+
+26 famine
+These poor African kids suffers a lot from famine .
+n 饥荒
+
+27 previous
+People no longer use the old fashioned devices used in previous times .
+adj 先前的
+
+28 license
+She finally got the driver license .
+n 许可证
+
+29 waiter
+The younger man is a waiter in a restaurant .
+n 服务员
+
+30 likelihood
+In all likelihood ,  the lion will win the boxing match .
+n 可能性
+
+31 because
+The tooth is in pain because his mater ate lots of sugar .
+conj 因为
+
+32 award
+He was given an award by his company for his hard work .
+n 奖赏
+
+33 virus
+This virus is really dangerous .
+n 病毒
+
+34 wage
+Construction workers can make a high hourly wage .
+n 工资
+
+35 thirteen
+There's a number thirteen on my shirt .
+num 十三
+
+36 lest
+She set many alarms the previous night , lest she be late again .
+conj 以免
+
+37 northeast
+A northeast wind is blowing strongly now .
+adj 位于东北的
+
+38 afterward
+After , please clean up your dog's poop .
+adv 之后
+
+39 despair
+"All of my money is gone " the man cried in despair .
+n 绝望
+
+40 prosperity
+The prosperity of the city is evident from the busy nighttime scene .
+n 繁荣
+
+41 interesting
+Watching cartoons is more interesting for the little baby .
+adj 有趣的
+
+42 widely
+The color red was widely used during the Spring Festival celebrations .
+adv 广泛地
+
+43 bring
+Every morning he brings a package of things for my baby .
+v 带来
+
+44 blow
+Let's blow them together .
+v 吹
+
+45 hardship
+An orphan faces a life of great hardship .
+n 艰难
+
+46 bother
+The pain in my shoulder bothers me .
+v 使 ... 苦恼
+
+47 offset
+The positives offset the negatives .
+v 抵消
+
+48 yourself
+Look at yourself in the mirror .
+pron 你自己
+
+49 program
+They are working on a big program .
+n 项目
+
+50 abrupt
+The abrupt bang gave him a fright .
+adj 突然的
