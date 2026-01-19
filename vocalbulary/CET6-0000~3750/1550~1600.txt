@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 rectangular
+The shape of the photo frame is rectangular .
+adj 长方形的
+
+2 premise
+The premise for watching this movie is that you must be 16 or later .
+n 前提
+
+3 zealous
+What a zealous bunch of sports fans ! They love their team .
+adj 热情的
+
+4 fare
+The fare for this ride is $99 999 999.9 .
+n 交通费
+
+5 smile
+She has a beautiful smile .
+n 微笑
+
+6 supply
+The farmer has an adequate supply of milk .
+n 供应
+
+7 wretched
+The wretched old lady lives in poor conditions .
+adj 可怜的
+
+8 tackle
+The firefighters are tackling the blaze .
+v 处理
+
+9 treat
+The girl treats the dogs with kindness .
+v 对待
+
+10 poke
+She gives him a poke in the shoulder to get his attention .
+n 戳
+
+11 vest
+I put on my white vest to get ready for exercise .
+n 背心
+
+12 quartz
+The quartz crystal looks so beautiful under the light .
+n 石英
+
+13 crop
+The main crops in this area are rice , corn and beans .
+n 庄稼
+
+14 surprise
+When he asked me to marry him , it was such a surprise .
+n 惊喜
+
+15 servant
+The servant served them with drinks .
+n 佣人
+
+16 penalty
+You used your hands ! The other side can take a penalty kick .
+n 处罚
+
+17 corrode
+The metal corroded because you left it out in the rain for too long .
+v 受腐蚀
+
+18 mean
+The green light means we can cross the road .
+v 意味着
+
+19 feedback
+He did not receive positive feedback from his interview .
+n 反馈
+
+20 desirable
+The "foodie" girl finds fried chicken desirable .
+adj 有吸引力的
+
+21 bureaucracy
+The bureaucracy always makes people go through unnecessary procedures .
+n 官僚主义
+
+22 unusual
+It's unusual for the sun to come out when it's raining .
+adj 不常见的
+
+23 residential
+The residential area is separate from the business district .
+adj 住宅的
+
+24 marine
+Marine animals can be very beautiful .
+adj 海洋的
+
+25 acquisition
+We study for the acquisition of knowledge .
+n 获得
+
+26 cylinder
+Do you know how to calculate the volume of a cylinder .
+n 圆柱体
+
+27 fond
+I am fond of the man .
+adj 喜欢的
+
+28 second
+The athlete who took second place got a silver medal .
+det 第二的
+
+29 ministry
+Working for a government ministry is a good job to have .
+n (政府的)部门
+
+30 seemingly
+Defeating such a strong rival is seemingly impossible , but he won the match at last .
+adv 看似
+
+31 unusually
+The shape of this potato is unusually odd .
+adv 不平常的
+
+32 flavour
+There are various flavour of ice cream .
+n 味道
+
+33 incident
+The headmaster is talking to the two boys about the classroom incident .
+n 事件
+
+34 detection
+Face detection is everywhere today .
+n 检测
+
+35 trifle
+There are two trifles on the table .
+n 蛋糕
+
+36 pleasure
+The little girl takes pleasure in eating cakes .
+n 乐事
+
+37 lower
+I need to lower the volume of the radio , or it will wake up the baby .
+v 降低
+
+38 severely
+"You are awful parents ! " our little daughter told us serverely .
+adv 严重的
+
+39 remedy
+I use the eraser as a remedy to correct my mistake .
+n 补救
+
+40 strive
+They are all striving for a good future and life .
+v 奋斗
+
+41 cathedral
+We visited a magnificent cathedral .
+n 大教堂
+
+42 several
+I have several apples for you .
+det 几个
+
+43 industry
+The manufacturing industry has already been using lots of robots .
+n 行业
+
+44 basketball
+Girls love to play basketball too , and they can play it very well .
+n 篮球
+
+45 leisure
+She spent some leisure time lying on the couch .
+adj 空闲的
+
+46 defy
+Many people defied the warning sign of no scribbling on the wall .
+v 违背
+
+47 cold
+I prefer the cold , snowy mountains over warm places .
+adj 寒冷的
+
+48 drink
+Cold drinks are provided here .
+n 饮料
+
+49 smart
+She is using a smart phone to make s vedio call .
+adj 智能的
+
+50 honour
+People honour each other at work by giving a bow .
+v 尊敬
