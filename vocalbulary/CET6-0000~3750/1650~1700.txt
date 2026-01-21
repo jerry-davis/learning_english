@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 dimension
+These different shapes have three dimensions .
+n 维度
+
+2 obstacle
+This is a giant obstacle for him .
+n 障碍
+
+3 ray
+The thief tried to sneak through the infrared rays .
+n 射线
+
+4 sunrise
+I got up early today and saw a beautiful sunrise .
+n 日出
+
+5 difficult
+It is difficult for her to carry such a huge stone .
+adj 困难的
+
+6 mount
+He mounted his horse and rode away .
+v 骑上
+
+7 circulation
+The new has been in circulation .
+n 流传
+
+8 rebel
+The little boy often rebels against his mother .
+v 造反
+
+9 organic
+We don't use chemical fertilizer ; this is natural organic food .
+adj 有机的
+
+10 locate
+Some important cities are located in the places marked on the map .
+v 位于
+
+11 detach
+I detached the screen protector from my phone .
+v 使分开
+
+12 correspondent
+After the earthquake , the correspondent sent us the first news .
+n 记者
+
+13 grammar
+The english teacher is teaching grammar now .
+n 语法
+
+14 bird
+These bird all have bright colors .
+n 鸟
+
+15 kettle
+I am boiling water in a kettle to make tea .
+n 水壶
+
+16 ultimate
+My ultimate goal is to buy a house .
+adj 最终的
+
+17 restriction
+There is a restriction on fishing here .
+n 约束
+
+18 foul
+Ewww , that smells foul .
+adj 难闻的
+
+19 dramatic
+The actor are practising a dramatic scene .
+adj 戏剧的
+
+20 nod
+To nod in agreement , lean your head forward a little .
+v 点头
+
+21 goal
+He achieved his goal of reaching the top .
+n 目标
+
+22 employ
+The woman may employ me .
+v 雇佣
+
+23 wait
+She is waiting for her flight .
+v 等待
+
+24 external
+This medicine is just for external use , so we can' spray it into our mouth .
+adj 外面的
+
+25 bribe
+He bribed the manager to get the authorization .
+n 向 ... 行贿
+
+26 enjoy
+A birthday party should be an event everyone can enjoy .
+v 享受
+
+27 amount
+He made a large amount of money .
+n 数量
+
+28 winter
+It always snows heavily here in winter .
+n 冬季
+
+29 salt
+Adding the salt gives the dish more flavour .
+n 盐
+
+30 culture
+China is a beautiful country with long history and colorful culture .
+n 文化
+
+31 scholar
+She's so young , but she's quite a little scholar .
+n 学者
+
+32 warmth
+A cup of hot coffee in the morning fills me with warmth .
+n 温暖
+
+33 device
+Mobile phone is a widely-used device .
+n 设备
+
+34 noble
+The woman in the expensive dresses comes from a noble family .
+adj 贵族的
+
+35 logical
+Logical thinking is important for understanding others properly .
+adj 推理正确的
+
+36 energetic
+The elementary school students are very energetic .
+adj 精力充沛的
+
+37 brick
+The man is using bricks to build a house .
+n 砖
+
+38 exempt
+In this tourist spot children under 1.2 meters tall are exempt from paying entrance fee .
+adj 被免除
+
+39 journal
+These are very popular journals .
+n 杂志
+
+40 slightly
+This door is open just slightly so that the sunlight can come in .
+adv 稍微
+
+41 assignment
+My teacher gave me a lot of assignment for the weekend .
+n (课外)作业
+
+42 illusion
+The feeling that the picture is moving is just an illusion .
+n 假象
+
+43 dislike
+She shows her dislike for vegetables .
+v 反感
+
+44 active
+The active children are jumping on the sofa .
+adj 活跃的
+
+45 regular
+We have a regular meeting on every Monday morning .
+adj 定期的
+
+46 intensive
+He became stronger after intensive physical training .
+adj 加强
+
+47 width
+They are expending the width of the road .
+n 宽度
+
+48 readily
+A dog will readily run ahead of you if you give it a chance .
+adv 乐意
+
+49 through
+He is running through the wall .
+prep
+
+50 entitle
+Only invited wedding guests are entitled to sit here .
+v 给予 ... 权力
