@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 reservation
+She accepted the plan with reservation .
+n 保留意见
+
+2 muscular
+The muscular man is lifting weight in the gym .
+adj 肌肉的
+
+3 gas
+A could of gas is coming out from the chimney .
+n 气体
+
+4 bitter
+The coffee is so bitter .
+adj 味苦的
+
+5 finding
+My scientific finding was that people love to eat salty food .
+n 发现
+
+6 September
+September 5th is my birthday . it's coming soon !
+n 九月
+
+7 musician
+The musician is playing beautiful music .
+n 音乐家
+
+8 seaman
+The seaman is observing the seashore .
+n 水手
+
+9 chorus
+The song's chorus is my favorite part ; we can all sing along .
+n 副歌部分
+
+10 stretch
+The cat is stretching its body .
+v 伸展
+
+11 tumble
+The man tumbled off the bike and hurt his arm .
+v 跌倒
+
+12 belong
+A belongs to B .
+v 属于
+
+13 sparrow
+Sparrows are small brown and grey birds , and are common in many parts of the world .
+n 麻雀
+
+14 profession
+Whatever profession you choose , work hard to be the best !
+n 职业
+
+15 practicable
+The boy put forward a practicable solution to get the weight of the elephant .
+adj 能实践的
+
+16 arrange
+The are arranging the coming event .
+v 安排
+
+17 publication
+Once the publication process is complete , the book will be available to buy .
+n 出版
+
+18 correction
+The teacher made a correction on my homework .
+n 改正
+
+19 apparatus
+Various pieces of apparatus are required when doing an experiment .
+n 设备
+
+20 degenerate
+How had his life degenerated to the point that he was living in a public park .
+v 衰减
+
+21 supreme
+The king is the supreme leader of the country .
+adj 至高的
+
+22 massive
+Buffalo are massive creatures ; I think this one weights as much as a car !
+adj 大规模的
+
+23 explode
+Watch out ! The gas tank is going to explode !
+v 爆炸
+
+24 himself
+He can do many things all by himself .
+pron 他自己
+
+25 resolve
+The employees are happy as they resolved a difficult problem .
+v 解决
+
+26 ivory
+It is not very common to see ivory intersecting with each other like this .
+n 象牙
+
+27 traditional
+The kid is dressing in traditional clothing .
+adj 传统的
+
+28 nearly
+The ball nearly went in !
+adv 几乎
+
+29 endure
+Their love has endured for many years .
+v 持续存在
+
+30 imagine
+They imagine having a baby after marriage .
+v 设想
+
+31 during
+It's rude to talk on the phone during dinner .
+prep 在 ... 期间
+
+32 in
+Stay in the car , so you don't get wet .
+prep 在 ... 里面
+
+33 their
+They are exchanging their gifts .
+det 他们的
+
+34 cliff
+There is a steep white cliff by the sea .
+n (海岸的)悬崖
+
+35 method
+Let me show you the methods to get curly hair .
+n 方法
+
+36 ship
+The ship is carrying a lot of goods .
+n 大船
+
+37 gentle
+He was very gentle and gave me his coat .
+adj 温柔的
+
+38 republic
+France is a republic .
+n 共和国
+
+39 specialist
+These people are leading specialists in their respective fields .
+n 专家
+
+40 necessity
+It's a necessity for him to learn English .
+n 必然性
+
+41 hasten
+We must hasten our pace , or we'll miss our train !
+v 赶快
+
+42 shortage
+The child is experiencing a shortage of water .
+n 短缺
+
+43 upstairs
+The little puppy crawls upstairs for its food .
+adv 楼上的
+
+44 locomotive
+Old locomotive ran on coal and steam .
+n 火车头
+
+45 interpret
+The teacher helped us interpret the graph .
+v 解释
+
+46 technique
+Making handmade jewellery requires certain techniques .
+n 技术
+
+47 sometime
+Although I failed the exam , I believe that I will make it sometimes .
+adv 某时
+
+48 plus
+One plus one equals two .
+prep 加上
+
+49 agreeable
+The customer was agreeable to my suggestions .
+adj 同意的
+
+50 diplomatic
+They are having an important diplomatic meeting .
+adj 外交的
