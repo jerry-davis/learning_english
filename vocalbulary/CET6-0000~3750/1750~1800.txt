@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 expel
+They use smoke to expel the mice in the hold .
+v 驱逐
+
+2 sunset
+The giraffes rest by the tree at the sunset .
+n 日落
+
+3 educate
+I always educate my children in my free time .
+v 教育
+
+4 pin
+I pin notes to the wall to remind me to do things .
+v 别住
+
+5 stove
+Turn off the stove , or the food will be overcooked .
+n 炉子
+
+6 unique
+This square apple looks uniques in a pile of round ones .
+adj 独一的
+
+7 fit
+Let's put the last piece in , it fits perfectly .
+v 使适合
+
+8 harm
+Eating too much sweet food does harm to your teeth .
+n 伤害
+
+9 envisage
+He envisages a future where he owns a home .
+v 想象
+
+10 tap
+Tapping mineral resources can bring economic benefits .
+v 开发
+
+11 whole
+The boy ate the whole watermelon by himself .
+adj 完整的
+
+12 cup
+I like having a cup of coffee before going to work .
+n 杯
+
+13 classroom
+Students can have lessons in classrooms.
+n 教室
+
+14 mobile
+We call it "mobile phone" because you can take it anywhere you want .
+adj 可移动的
+
+15 correlate
+The chart shows that level of income correlates with the level of education .
+v 使香港
+
+16 scientist
+They are distinguished scientists in the fields of biology and physics .
+n 科学家
+
+17 bleed
+The paw of the dog is bleeding .
+v 流血
+
+18 citizen
+Their ID cards shows that they are citizens of Cat country .
+n 公民
+
+19 poison
+The princess was poisoned by the apple .
+v 毒死
+
+20 innovation
+The age of innovation has already come to us .
+n 创新
+
+21 senate
+Several politicians are talking in front of the United States Senate .
+n 参议院
+
+22 tolerate
+We tolerate the stronger smell from our boss .
+v 容忍
+
+23 mild
+It's a mild spring day .
+adj 轻微的
+
+24 diploma
+I finally got my college diploma when I graduated .
+n 毕业证书
+
+25 suggest
+She suggests that the sick girl see a doctor .
+v 建议
+
+26 land
+This land is covered with green grass .
+n 陆地
+
+27 sincere
+She bowed to show her sincere thanks to her classmate .
+adj 真诚的
+
+28 sudden
+He felt a sudden pain in his heart .
+adv 突然的
+
+29 outstanding
+Their outstanding skill led them to victory in the soccer competition .
+adj 杰出的
+
+30 seed
+The seeds in the soil will grow into plants next year .
+n 种子
+
+31 living
+He makes shoes for a living .
+n 生活
+
+32 grease
+The mechanic is applying a lubricating grease to the bearing .
+n 油脂
+
+33 pop
+An idea popped into his head .
+v 突然出现
+
+34 card
+They are playing cards on the table .
+n 纸牌
+
+35 gesture
+The girl believes that this gesture can bring her good luck .
+n 姿势
+
+36 condense
+All of the bad news was condensed into a few words at the telegram office .
+v 精炼
+
+37 consolidate
+Workers put the bricks together to consolidate the wall .
+v 加强
+
+38 stranger
+Kids , be careful of strangers offering candy !
+n 陌生人
+
+39 platform
+The platform is used to get oil from under the sea .
+n 平台
+
+40 auto
+There autos are parked in good order .
+n 汽车
+
+41 relativity
+Einstein introduced the theory of relativity .
+n 相对性
+
+42 tub
+He loves to take his toy into the tub .
+n 洗澡盆
+
+43 fatigue
+Due to heavy fatigue , I keep failing asleep at the desk .
+n 疲劳
+
+44 participant
+Every participant focused on the lecture .
+n 参与者
+
+45 insufficient
+One pea ? This meal is totally insufficient .
+adj 不足的
+
+46 noise
+The machines outside are making a loud noise .
+n 噪声
+
+47 drainage
+This bathroom has a good drainage system .
+n 排水
+
+48 bough
+We will build a tree house on the large bough .
+n 粗树枝
+
+49 ankle
+An injured ankle should be wrapped in a bandage .
+n 裸关节
+
+50 concentrate
+He is concentrating on making his bread look perfect .
+v 全神贯注
