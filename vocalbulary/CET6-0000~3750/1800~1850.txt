@@ -1,0 +1,229 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 disable
+The thief disabled the security camera .
+v 使 ... 不能正常运转
+
+2 adapt
+The chameleon adapts to his surroundings in a second .
+v 适应
+
+3 digest
+The digest has collected many classical poems.
+n 文摘
+
+4 cope
+The experienced captain can cope with the dangerous situation and find a solution .
+v 处理
+
+5 corps
+A corps of designers are discussing the new project .
+n 一群人
+
+6 divide
+The pizza was divide into two halves .
+v 分开
+
+7 boil
+As the water boils it gives off steam .
+v 煮沸
+
+8 unpleasant
+There's an unpleasant smell coming out from the refrigerator .
+adj 令人不安的
+
+9 mask
+She covered her her face with her arms to mask her feelings .
+v 掩饰
+
+10 save
+He has a good habit of saving money .
+v 节省
+
+11 waken
+The alarm clock wakens me at 6 o'clock every day .
+v 弄下
+
+12 presume
+The man is presumed dead , but his dog is still searching .
+v 假设
+
+13 proper
+You should wear something proper when having an interview .
+adj 得体的
+
+14 night
+When night falls , the moon begins shine .
+n 夜晚
+
+15 bundle
+Here is a bundle of wheat .
+n 捆
+
+16 beneficial
+Eating vegetables and fruits is beneficial to your health .
+adj 有益的
+
+17 cheap
+You won't find cheaper carrots than this anywhere !
+adj 便宜的
+
+18 safely
+The horse crossed the river safely .
+adv 安全地
+
+19 butcher
+The butcher's job is mainly cutting meat and selling it .
+n 屠夫
+
+20 vacation
+The girl took a vacation on the beach .
+n 假期
+
+21 anticipate
+They anticipate moving to a new house by the end of the year .
+v 预测
+
+22 tender
+He is attracted to soccer at the tender age of two .
+n 年幼的
+
+23 insurance
+An insurance can offer financial protection against loss as a result of an accident .
+n 保险
+
+24 adjoin
+Our two rooms adjoin , so you are my neighbor now .
+v 以 ... 毗连
+
+25 dual
+His computer is equipped with dual screens .
+adj 双的
+
+26 journey
+The family is going on a journey soon .
+n 旅途
+
+27 rather
+I prefer to have cream cake rather than an apple .
+conj 而不是
+
+28 web
+I am in a complex web of relationships .
+n 网
+
+29 usually
+We usually have lunch at 12:00
+adv 通常
+
+30 me
+Who is the little boy in the photo ? it's me .
+pron 我
+
+31 Britain
+Big Ben is a famous travel spot in Britain .
+n 英国
+
+32 conquer
+She finally conquered this mountain .
+v 征服
+
+33 transformer
+These transformers help to send electricity across the grid .
+n 变压器
+
+34 resume
+The HR team are examining the resumes of the interviewees .
+n 简历
+
+35 domain
+He is an expert in the domain of physics .
+n 领域
+
+36 concede
+He finally conceded defeat in the tennis competition .
+v 承认
+
+37 oven
+The woman likes to bake bread in the oven .
+n 烤箱
+
+38 multiply
+The number of people in his team multiplied in the past two years .
+v 倍增
+
+39 environment
+All people should protect the environment .
+n 环境
+
+40 nest
+Most birds lay their eggs in their nest .
+n 巢
+
+41 drop
+Sales have dropped considerably.
+v 减少
+
+42 wing
+Look out of the window , you can see the wing of the plane .
+n 机翼
+
+43 egg
+The hen is incubating her eggs .
+n 鸡蛋
+
+44 combination
+Fried chicken plus cold beer is a perfect combination on a snowy day .
+n 结合
+
+45 origin
+The origin of humankind is still mysterious , but we think our ancestors lived in the trees .
+n 起源
+
+46 timber
+Many forests are cut down for timber every year .
+n 木材
+
+47 prove
+It take one second to say "I do" , but a lifetime to prove it .
+v 证明
+
+48 indicative
+The red numbers are indicative of danger .
+adj 提示的
+
+49 politics
+He is collecting all th politics news stories .
+n 政治
+
+50 weight
+There is almost no changes in his weight .
+n 体重
